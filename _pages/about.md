@@ -20,6 +20,6 @@ You can find my CV [here]()
 
 ## Contact
 
-Email: syao31 \<at\> jh \<dot\> edu
+**Email:** syao31 **\<at\>** jh **\<dot\>** edu
 
 
