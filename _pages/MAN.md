@@ -26,6 +26,18 @@ Conguratulation! You have found a secret page. I have created this page with Yut
 </figure>
 
 
+<div style="text-align: center;">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="/images/MAN/man_3.png" alt="Grimace of MAN" width="200"/>
+    <figcaption>Roar of MAN</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="/images/MAN/man_2.png" alt="Smile of MAN" width="200"/>
+    <figcaption>Smile of MAN</figcaption>
+  </figure>
+</div>
+
+
 
 
 
