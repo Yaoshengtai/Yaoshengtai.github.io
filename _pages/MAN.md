@@ -1,5 +1,6 @@
 ---
 permalink: /MAN/
+layout: single
 
 ---
 
