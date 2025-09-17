@@ -1,6 +1,7 @@
 ---
 permalink: /MAN/
-layout: single
+layout: archive
+
 
 ---
 
