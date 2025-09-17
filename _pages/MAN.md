@@ -16,13 +16,13 @@ Conguratulation! You have found a secret page. I have created this page with Yut
 
 <figure style="text-align: center;">
   <img src="/images/MAN/man_2.png" alt="Point of MAN" style="width:300px;"/>
-  <figcaption>Roar of MAN</figcaption>
+  <figcaption>Point of MAN</figcaption>
 </figure>
 
 
 <figure style="text-align: center;">
   <img src="/images/MAN/man_3.png" alt="Grimace of MAN" style="width:300px;"/>
-  <figcaption>Roar of MAN</figcaption>
+  <figcaption>Grimace of MAN</figcaption>
 </figure>
 
 
