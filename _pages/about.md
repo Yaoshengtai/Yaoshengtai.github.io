@@ -16,7 +16,7 @@ I'm insterested in **Optimization and Machine learning theorey** and I'm now see
 
 ## CV
 
-You can find my CV [here]()
+You can find my CV [here]("{{ base_path }}/files/CV_9_17.pdf")
 
 ## Contact
 
