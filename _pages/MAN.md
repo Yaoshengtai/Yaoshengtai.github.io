@@ -6,7 +6,7 @@ title: "MAN !!!!"
 ---
 
 
-Conguratulation! You have found a secret page. I have created this page with Yutong Li (Tim), and this is ** THE UINVERSE of MANions ** (Minions is "小黄人").
+Conguratulation! You have found a secret page. I have created this page with Yutong Li (Tim), and this is **THE UINVERSE of MANions** (Minions is "小黄人").
 
 
 <div style="text-align: center;">
