@@ -16,7 +16,7 @@ Broadly speaking, I'm insterested in **Optimization and Machine learning theorey
 
 ## CV
 
-You can find my CV [here](/files/CV_9_17.pdf)
+You can find my CV [here](/files/CV_9_17.pdf), update on 9/17/2025.
 
 
 ## Contact
