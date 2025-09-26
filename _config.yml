@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "default"
 title                    : "Shengtai Yao"
 title_separator          : "-"
 name                     : &name "Shengtai Yao"
