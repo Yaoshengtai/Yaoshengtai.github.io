@@ -12,7 +12,7 @@ Hi, I'm **Shengtai Yao (圣泰 姚)**, currently pursuing a Master’s degree in
 
 ## Research Interest
 
-Broadly speaking, I'm insterested in **Optimization and Machine learning theorey** and I'm now seeking admission to a PhD program beginning in Fall 2026. I'm currently most interested and working on geometry learning.
+Broadly speaking, I'm insterested in **Optimization and Machine learning theorey** and I'm now seeking PhD admission in Fall 2026. I'm currently most interested and working on geometry learning.
 
 ## CV
 
