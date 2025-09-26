@@ -12,11 +12,11 @@ main:
   - title: "Home"
     url: /about/  
      
-  - title: "Research"
-    url: /publications/
+  # - title: "Research"
+  #   url: /publications/
 
-  - title: "More"
-    url: /more/
+  # - title: "More"
+  #   url: /more/
 
   # - title: "Talks"
   #   url: /talks/    
