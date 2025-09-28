@@ -2,14 +2,6 @@
 author_profile: true
 
 ---
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']]
-    }
-  };
-</script>
 
 
 ## Minimum black cells to fill a \\( n \times n \\) grid
