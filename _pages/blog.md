@@ -1,6 +1,7 @@
 ---
 permalink: /blog/
 title: "My Blog"
+layout: archive
 author_profile: true
 
 ---
