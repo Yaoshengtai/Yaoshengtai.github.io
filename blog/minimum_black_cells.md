@@ -3,10 +3,10 @@ layout: archive
 
 ---
 
-## Minimum black cells to fill a $n \times n$ grid
+## Minimum black cells to fill a \\( n \times n \\) grid
 
 ### Problem
-We have an $n \times n$ board, each cell either black or white. The update rule is:
+We have an \\( n \times n \\) board, each cell either black or white. The update rule is:
 
 * A white cell becomes black if at least two of its four neighbors (up, down, left, right) are black.
 
