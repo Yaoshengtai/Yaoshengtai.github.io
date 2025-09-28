@@ -13,7 +13,7 @@ My research insterest lies in machine learning, optimization, statistics, etc.
 
 ---
 
-- **Physics-Informed Neural Networks (PINN) for Multi-Physics Coupling and Deformation InversionAnalysis in Mechanical Seal End Faces** (Undergraduate's thesis)
+- **Physics-Informed Neural Networks (PINN) for Multi-Physics Coupling and Deformation Inversion Analysis in Mechanical Seal End Faces** (Undergraduate's thesis)
   - Engineering Applications of Artificial Intelligence (EAAI), Under reviewed [\[paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005150)
 
 ---
