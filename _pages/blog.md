@@ -19,3 +19,5 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
 4. $$ a \times b$$
 
 5. \(a^2 + b^2 = c^2\)
+
+6. 
