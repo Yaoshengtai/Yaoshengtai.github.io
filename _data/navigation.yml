@@ -18,8 +18,8 @@ main:
   # - title: "More"
   #   url: /more/
         
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
 
     
   # - title: "Guide"
