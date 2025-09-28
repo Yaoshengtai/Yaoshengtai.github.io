@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Minimum black cells to fill a $n \times n$ grid
 
 ### Problem
