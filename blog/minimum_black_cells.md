@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: archive
+
 ---
 
 ## Minimum black cells to fill a $n \times n$ grid
