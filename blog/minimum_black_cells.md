@@ -17,7 +17,7 @@ What is the minimum number of black cells needed at the beginning, and how shoul
 
 ### Answer:
 The solution is unexpectedly short and neat, 
-<details>
+<details markdown="1">
   <summary>Click to see the solution</summary>
    
 It’s easy to see that placing \\( n \\) black cells along the diagonal will eventually turn the entire board black. But is  \\( n \\) the minimum?  
