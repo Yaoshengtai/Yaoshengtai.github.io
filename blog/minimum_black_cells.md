@@ -15,14 +15,16 @@ We have an \\( n \times n \\) board, each cell either black or white. The update
 
 What is the minimum number of black cells needed at the beginning, and how should they be placed, so that the whole board eventually turns black?
 
-
+### Answer:
+The solution is unexpectedly short and neat, 
 <details>
-  <summary>👉 点击展开</summary>
+  <summary>Click to see the solution</summary>
+
 
 这里是隐藏的内容。  
 你可以写多行文字，甚至支持 **Markdown 格式**。
 
-- 数学公式 \(a^2+b^2=c^2\)
+- 数学公式 \\(a^2+b^2=c^2\\)
 - 列表项 1
 - 列表项 2
 
