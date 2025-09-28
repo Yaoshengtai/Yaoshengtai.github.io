@@ -9,7 +9,7 @@ author_profile: true
 My research insterest lies in machine learning, optimization, statistics, etc.
 
 - **Boost Calibration for Dual-Arm Co-Robotic Ultrasound System**
-  - 2025 IEEEInternational Ultrasonics Symposium (IUS)  [\[paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005150)
+  - 2025 IEEEInternational Ultrasonics Symposium (IUS)  [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
 
 
 - **Physics-Informed Neural Networks (PINN) for Multi-Physics Coupling and Deformation InversionAnalysis in Mechanical Seal End Faces** (Undergraduate's thesis)
