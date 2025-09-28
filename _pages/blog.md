@@ -5,22 +5,6 @@ author_profile: true
 
 ---
 
-Welcome to my blog! I’ll be posting some fun and interesting math questions here, along with my thoughts on different math topics. If you spot any mistakes, please feel free to reach out—I’d greatly appreciate it!
-
-1. <a href="/blog/minimum_black_cells/">
-  Minimum black cells to fill an \\( n \times n \\) grid
-</a>   <span style="color: gray;"> -- Posted on 9/28/2025</span>
-
-
-2. \\( a^2+b^2=c^2 \\)
-
-3. \\(a^2 + b^2 = c^2\\)
-
-4. $$ a \times b$$
-
-5. \(a^2 + b^2 = c^2\)
-
-
 <script>
   window.MathJax = {
     tex: {
@@ -29,12 +13,17 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
     }
   };
 </script>
+
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+Welcome to my blog! I’ll be posting some fun and interesting math questions here, along with my thoughts on different math topics. If you spot any mistakes, please feel free to reach out—I’d greatly appreciate it!
 
-Inline: \(a^2 + b^2 = c^2\)
+1. <a href="/blog/minimum_black_cells/">
+  Minimum black cells to fill an \\( n \times n \\) grid
+</a>   <span style="color: gray;"> -- Posted on 9/28/2025</span>
 
-Block:
 
-\[
-\sum_{i=1}^n i = \frac{n(n+1)}{2}
-\]
+
+
+
+
+
