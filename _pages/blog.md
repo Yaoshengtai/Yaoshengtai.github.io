@@ -21,6 +21,7 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
   Minimum black cells to fill an \\( n \times n \\) grid
 </a>   <span style="color: gray;"> -- Posted on 9/28/2025</span>
 
+2. [Minimum black cells to fill an \\( n \times n \\) grid](/blog/minimum_black_cells/)
 
 
 
