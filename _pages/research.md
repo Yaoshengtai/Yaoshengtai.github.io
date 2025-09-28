@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My research insterest lies in machine learning, optimization, statistics, etc.
+My research insterest lies broadly in machine learning, optimization, statistics, etc.
 
 - **Boost Calibration for Dual-Arm Co-Robotic Ultrasound System**
   - 2025 IEEEInternational Ultrasonics Symposium (IUS)  [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
