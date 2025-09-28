@@ -26,7 +26,7 @@ My research insterest lies broadly in machine learning, optimization, statistics
 
 ---
 
-- **Data-Driven Urban Traffic Risk Analysis** 9/22-12/23
+- **Data-Driven Urban Traffic Risk Analysis** 9/22-8/23
   - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, H. Li, X. Hu, K. Hermann, K. Zhang, Y. Li, M. Li, Identifying Traffic Risk Hotspots Using Spatial-temporal Network Kernel Density Estimation: A Novel Optimal Parameter Selection Method with Dual Dataset Validation. Transportation Research Board (TRB) 103rd Annual Meeting, Poster Presented [\[paper\]](/files/paper/ST_NKDE_TRB.pdf)
 
 ---
