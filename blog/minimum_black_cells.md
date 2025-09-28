@@ -19,13 +19,8 @@ What is the minimum number of black cells needed at the beginning, and how shoul
 The solution is unexpectedly short and neat, 
 <details>
   <summary>Click to see the solution</summary>
-
-
-这里是隐藏的内容。  
-你可以写多行文字，甚至支持 **Markdown 格式**。
-
-- 数学公式 \\(a^2+b^2=c^2\\)
-- 列表项 1
-- 列表项 2
+  It's easy to see if we put n black cells on the diagonal, we will eventually get whole black board. But is n the minimum?
+  
+  Obvious that the update process do not change the perimeter of the black area. The whole black board is with perimeter 4n, then if we use less than n cells, the initial perimeter is less than 4n. Then, the minimum is n.
 
 </details>
