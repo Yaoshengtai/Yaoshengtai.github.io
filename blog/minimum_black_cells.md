@@ -1,6 +1,5 @@
 ---
 layout: archive
-mathjax: true
 ---
 <script>
   window.MathJax = {
