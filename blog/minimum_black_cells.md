@@ -1,6 +1,6 @@
 ---
 layout: archive
-
+mathjax: true
 ---
 
 ## Minimum black cells to fill a \\( n \times n \\) grid
