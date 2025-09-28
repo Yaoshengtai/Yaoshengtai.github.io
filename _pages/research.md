@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My current research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
+My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
 
 - **Geometry Learning** 4/25-current
 
