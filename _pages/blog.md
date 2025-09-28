@@ -20,4 +20,21 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
 
 5. \(a^2 + b^2 = c^2\)
 
-6. 
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+Inline: \(a^2 + b^2 = c^2\)
+
+Block:
+
+\[
+\sum_{i=1}^n i = \frac{n(n+1)}{2}
+\]
