@@ -1,7 +1,7 @@
 ---
 permalink: /blog/
-layout: archive
 title: "My Blog"
+author_profile: true
 
 ---
 
