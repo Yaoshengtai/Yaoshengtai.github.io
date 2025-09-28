@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-layout: archive
+layout: default
 title: "My Blog"
 
 ---
