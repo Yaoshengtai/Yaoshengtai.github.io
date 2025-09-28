@@ -8,7 +8,7 @@ author_profile: true
 
 My research insterest lies broadly in machine learning, optimization, statistics, etc.
 
-- **Robot Calibration Algorithm**
+- **Robot Calibration Algorithms**
   - <u>S. Yao</u>, Y. Wu, R.H. Taylor, E.M. Boctor, Boost Calibration for Dual-Arm Co-Robotic Ultrasound System. 2025 IEEE International Ultrasonics Symposium (IUS)  [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
 
 ---
