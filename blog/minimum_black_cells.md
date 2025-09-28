@@ -1,8 +1,10 @@
 ---
 author_profile: true
-layout: archive
-title:"Minimum black cells to fill a \\( n \times n \\) grid"
+layout: single
+
 ---
+
+## Minimum black cells to fill a \\( n \times n \\) grid
 
 ### Problem:
 We have an \\( n \times n \\) board, each cell either black or white. The update rule is:
