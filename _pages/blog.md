@@ -19,9 +19,18 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
 
 1. <a href="/blog/minimum_black_cells/">
   Minimum black cells to fill an \\( n \times n \\) grid
-</a>   <span style="color: gray;"> -- Posted on 9/28/2025</span>
+</a>   <span style="color: gray;"> ---- 9/28/2025</span>
 
-2. [Minimum black cells to fill an \\( n \times n \\) grid](/blog/minimum_black_cells/)
+<a href="/blog/minimum_black_cells/" style="text-decoration-skip-ink: none;">
+  Minimum black cells to fill an \( n \times n \) grid
+</a>
+<span style="color: gray;"> ---- 9/28/2025</span>
+
+<a href="/blog/minimum_black_cells/" style="text-decoration: none; border-bottom: 1px solid;">
+  Minimum black cells to fill an \( n \times n \) grid
+</a>
+<span style="color: gray;"> ---- 9/28/2025</span>
+
 
 
 
