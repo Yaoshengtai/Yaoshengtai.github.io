@@ -15,3 +15,5 @@ Welcome to my blog! I’ll be posting some fun and interesting math questions he
 2. \\( a^2+b^2=c^2 \\)
 
 3. \\(a^2 + b^2 = c^2\\)
+
+4. $$ a \times b$$
