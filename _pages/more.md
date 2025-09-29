@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-- I love making stuff with my own hands. 
+- **I love making stuff with my own hands.**
 
   - Back in undergrad, I studied Mechanical Engineering and worked on lots of fun projects, like intelligent car, train coupler, and even made two science exhibits that ended up on display at the China Science and Technology Museum! I’ve got some photos of them [here](/files/Fun_projects.pdf). 
 
@@ -28,3 +28,6 @@ author_profile: true
     <img src="/images/origami/origami_4.png" style="width:200px; display:block; margin:auto;"/>
   </figure>
 </div>
+
+
+- 
