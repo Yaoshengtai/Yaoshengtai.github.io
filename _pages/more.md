@@ -35,3 +35,6 @@ author_profile: true
   - I love basketball
     
   - I love cycling — my longest ride a single day so far is 150 kilometers, and I’m training to get stronger
+
+
+Besides these, I’m a fan of Chinese calligraphy and was a member of my hometown’s Calligraphers Association. I also can play the violin. I love exploring new hobbies and making friends. If you ever feel like chatting, just drop me an email!
