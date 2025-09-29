@@ -30,4 +30,6 @@ author_profile: true
 </div>
 
 
-- 
+- **I love sports**
+  - I love basketball
+  - I love cycling — my longest ride a single day so far is 150 kilometers, and I’m training to get stronger
