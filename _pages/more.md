@@ -14,14 +14,18 @@ author_profile: true
 
 <div style="text-align: center;">
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/MAN/man_1.png" alt="Roar of MAN" style="width:300px; display:block; margin:auto;"/>
+    <img src="/images/origami/origami_1.png" alt="Roar of MAN" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/MAN/man_2.png" alt="Point of MAN" style="width:300px; display:block; margin:auto;"/>
+    <img src="/images/origami/origami_2.png" alt="Point of MAN" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/MAN/man_3.png" alt="Grimace of MAN" style="width:300px; display:block; margin:auto;"/>
+    <img src="/images/origami/origami_3.png" alt="Grimace of MAN" style="width:200px; display:block; margin:auto;"/>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="/images/origami/origami_4.png" alt="Grimace of MAN" style="width:200px; display:block; margin:auto;"/>
   </figure>
 </div>
