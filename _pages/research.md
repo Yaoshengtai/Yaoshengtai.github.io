@@ -8,7 +8,7 @@ author_profile: true
 
 My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
 
-- **Geometry Learning** 4/25-current
+- **Geometric Machine Learning** 4/25-current
 
 ---
 
