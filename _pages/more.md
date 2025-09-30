@@ -39,4 +39,4 @@ author_profile: true
 
 ---
 
-Besides these, I’m a fan of Chinese calligraphy and was a member of my hometown’s Calligraphers Association. I also can play the violin. I love exploring new hobbies and making friends. If you ever feel like chatting, just drop me an email!
+Besides these, I’m a fan of Chinese calligraphy and was a member of my hometown’s Calligraphers Association. I also can play the violin. I love exploring new hobbies and making new friends. If you ever feel like chatting, just drop me an email!
