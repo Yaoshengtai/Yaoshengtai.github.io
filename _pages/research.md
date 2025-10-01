@@ -12,7 +12,7 @@ My research insterest lies broadly in machine learning, optimization, statistics
 
 ---
 
-- **Distributionaly Robust Optimization** 4/25-current
+- **Distributionally Robust Optimization** 4/25-current
 
 ---
 
