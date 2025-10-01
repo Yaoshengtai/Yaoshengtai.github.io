@@ -12,7 +12,7 @@ Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Ma
 
 ## Research Interest
 
-Broadly speaking, I'm insterested in **Optimization and Machine Learning Theory** and I'm now seeking PhD admission in Fall 2026. I'm currently most interested and working on Geometric Machine Learning.
+Broadly speaking, I'm insterested in **Optimization and Machine Learning Theory** and I am currently applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning.
 
 ## CV
 
