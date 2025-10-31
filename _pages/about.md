@@ -14,9 +14,7 @@ Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Ma
 
 Broadly speaking, I'm insterested in **Optimization and Machine Learning Theory** and I am currently applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning and Distributionally Robust Optimization.
 
-## CV
 
-You can find my CV [here](/files/CV/CV_9_17.pdf), updated on 9/17/2025.
 
 
 ## Contact
