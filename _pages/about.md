@@ -12,7 +12,7 @@ Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Ma
 
 ## Research Interest
 
-Broadly speaking, I'm interesting in **Optimization and Machine Learning Theory** and I am applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning and Distributionally Robust Optimization.
+Broadly speaking, I'm interested in **Optimization and Machine Learning Theory** and I am applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning and Distributionally Robust Optimization.
 
 
 
