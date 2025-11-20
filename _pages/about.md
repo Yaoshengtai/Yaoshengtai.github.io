@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Master’s degree in [Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at [Johns Hopkins University](https://www.jhu.edu/). I'm fortunate to work with [Mateo Diaz](https://mateodd25.github.io/), [Luhao Zhang](https://luhao-zhang.github.io/) and [Yixuan Wu](http://yixuanwu.page/). Prior to this, I earned my Bachelor degree in Mechanical Engineering (Elite program) from [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Master’s degree in [Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at [Johns Hopkins University](https://www.jhu.edu/). I'm fortunate to work with [Mateo Diaz](https://mateodd25.github.io/), [Luhao Zhang](https://luhao-zhang.github.io/) and [Yixuan Wu](http://yixuanwu.page/). Prior to this, I earned my Bachelor degree in Mechanical Engineering (Elite program) from [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Qiang He](https://www.me.tsinghua.edu.cn/en/info/1265/2035.htm).
 
 ## Research Interest
 
