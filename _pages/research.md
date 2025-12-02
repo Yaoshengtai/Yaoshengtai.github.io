@@ -9,7 +9,7 @@ author_profile: true
 My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
 
 - **Geometric Machine Learning** 4/25-current
-- <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. D\'iaz, [Any-dimensional Invariant Universality], Master's Thesis  *forthcoming*
+- <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. D\'iaz, [Any-dimensional Invariant Universality], Master's Thesis,  *forthcoming*
 ---
 
 - **Distributionally Robust Optimization** 4/25-current
@@ -17,7 +17,7 @@ My research insterest lies broadly in machine learning, optimization, statistics
 ---
 
 - **Robot Calibration Algorithms** 10/24-2/25
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, Y. Wu, R.H. Taylor, E.M. Boctor, [Boost Calibration for Dual-Arm Co-Robotic Ultrasound System.](https://ieeexplore.ieee.org/document/11201326) 2025 IEEE International Ultrasonics Symposium (IUS)  *Poster Presented* [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, Y. Wu, R.H. Taylor, E.M. Boctor, [Boost Calibration for Dual-Arm Co-Robotic Ultrasound System.](https://ieeexplore.ieee.org/document/11201326) 2025 IEEE International Ultrasonics Symposium (IUS),  *Poster Presented* [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
 
 ---
 
