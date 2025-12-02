@@ -9,7 +9,7 @@ author_profile: true
 My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
 
 - **Geometric Machine Learning** 4/25-current
-
+- <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. D\'iaz, [Any-dimensional Invariant Universality], Master's Thesis  *forthcoming*
 ---
 
 - **Distributionally Robust Optimization** 4/25-current
