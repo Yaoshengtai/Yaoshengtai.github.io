@@ -19,6 +19,6 @@ Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*
 
 ## Contact
 
-**Email:** syao31 **\<at\>** jh **\<dot\>** edu *or* yaoshengtai01 **\<at\>** 163 **\<dot\>** com
+**Email:**  <span style="font-weight:bold; text-decoration:underline;"> syao31 **\<at\>** jh **\<dot\>** edu </span> *or*  <span style="font-weight:bold; text-decoration:underline;"> yaoshengtai01 **\<at\>** 163 **\<dot\>** com </span>
 
 
