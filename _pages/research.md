@@ -9,7 +9,7 @@ author_profile: true
 My research insterest lies broadly in machine learning, optimization, statistics. Previously, I also conducted research in robotics.
 
 - **Geometric Machine Learning** 4/25-current
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, Master's Thesis, Johns Hopkins University, *forthcoming*
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, Master's Thesis, Johns Hopkins University, [\[paper\]](/files/paper/Master_s_Thesis_Shengtai.pdf)
 
 ---
 
