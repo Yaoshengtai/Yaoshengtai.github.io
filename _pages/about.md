@@ -12,13 +12,12 @@ Welcome! I am **Shengtai Yao (姚圣泰)**, an incoming Ph.D. student in Operati
 
 ## Research Interest
 
-Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*** and I am applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning and Distributionally Robust Optimization.
-
+Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*** and I'm currently working on topics related to Geometric Machine Learning.
 
 
 
 ## Contact
 
-**Email:** syao31 **\<at\>** jh **\<dot\>** edu 
+**Email:** yaost **\<at\>** stanford **\<dot\>** edu 
 
 
