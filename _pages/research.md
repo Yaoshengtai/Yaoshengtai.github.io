@@ -8,7 +8,7 @@ author_profile: true
 
 
 - **Geometric Machine Learning** 4/25-Current
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, Johns Hopkins University, [\[paper\]](/files/paper/Master_s_Thesis_Shengtai.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, Johns Hopkins University [\[paper\]](/files/paper/Master_s_Thesis_Shengtai.pdf)
 
 ---
 
