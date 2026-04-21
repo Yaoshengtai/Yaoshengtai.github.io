@@ -11,6 +11,11 @@ Here are some of my works on origami. I have folded designs by Henry Phạm, Hon
 
 <div style="margin-left:20px; text-align: center;">
 
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img src="/images/origami/origami_7.jpg" style="width:200px; display:block; margin:auto;"/>
+</figure>
+
+
  <figure style="display:inline-block; margin:10px; text-align:center;">
   <img src="/images/origami/origami_6.jpg" style="width:200px; display:block; margin:auto;"/>
 </figure>
