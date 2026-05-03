@@ -8,7 +8,7 @@ author_profile: true
 
 
 - **Geometric Machine Learning** 4/25-Current
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, ICML 2026.
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, Any-dimensional Invariant Universality, International Conference on Machine Learning (ICML) 2026.
 ---
 
 - **Robot Calibration Algorithms** 10/24-2/25
