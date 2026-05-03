@@ -18,7 +18,7 @@ author_profile: true
 ---
 
 - **Physics-Informed Neural Networks (PINNs) for Multi-Physics Coupling** (Undergraduate's thesis) 10/23-7/24
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, W. Huang, Y. Hu, Q. He, [Boundary Region Reinforcement Physics-Informed Neural Networks for PDEs solving.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005150) Engineering Applications of Artificial Intelligence (EAAI), *2nd round review* [\[paper\]](/files/paper/BRR_PINNs_revised.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, W. Huang, Y. Hu, Q. He, [Boundary Region Reinforcement Physics-Informed Neural Networks for PDEs solving.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005150) Engineering Applications of Artificial Intelligence (EAAI), *3rd round review* [\[paper\]](/files/paper/BRR_PINNs_revised.pdf)
 
 ---
 
