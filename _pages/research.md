@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, W. Huang, Y. Hu, Q. He, [Boundary Region Reinforcement Physics-Informed Neural Networks for PDEs solving.](https://www.sciencedirect.com/science/article/pii/S0952197626014636?ref=pdf_download&fr=RR-5&rr=a043d3561d05aa73) Engineering Applications of Artificial Intelligence (EAAI), *In press* [\[paper\]](/files/paper/BRR_PINNs_revised.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, W. Huang, Y. Hu, Q. He, [Boundary Region Reinforcement Physics-Informed Neural Networks for PDEs solving.](https://www.sciencedirect.com/science/article/pii/S0952197626014636?ref=pdf_download&fr=RR-5&rr=a043d3561d05aa73) Engineering Applications of Artificial Intelligence (EAAI), *In press* [\[paper\]](/files/paper/BRR_PINNs_final.pdf)
 
 ---
 
