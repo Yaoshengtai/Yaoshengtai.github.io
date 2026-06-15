@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, [Any-dimensional Invariant Universality.](https://arxiv.org/abs/2605.23156) International Conference on Machine Learning (ICML) 2026.  [\[paper\]](/files/paper/Any_dimensional_invariant_universality.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, [Any-dimensional Invariant Universality.](https://arxiv.org/abs/2605.23156) ICML 2026.  [\[paper\]](/files/paper/Any_dimensional_invariant_universality.pdf)
 
 ---
 
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, Y. Wu, R.H. Taylor, E.M. Boctor, [Boost Calibration for Dual-Arm Co-Robotic Ultrasound System.](https://ieeexplore.ieee.org/document/11201326) 2025 IEEE International Ultrasonics Symposium (IUS),  *Poster Presented* [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, Y. Wu, R.H. Taylor, E.M. Boctor, [Boost Calibration for Dual-Arm Co-Robotic Ultrasound System.](https://ieeexplore.ieee.org/document/11201326) 2025 IEEE International Ultrasonics Symposium (IUS),   [\[paper\]](/files/paper/Boost_Calibration_final.pdf) [\[poster\]](/files/poster/Poster_boost_cali.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ author_profile: true
 
 ---
 
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, H. Li, X. Hu, K. Hermann, K. Zhang, Y. Li, M. Li, Identifying Traffic Risk Hotspots Using Spatial-temporal Network Kernel Density Estimation: A Novel Optimal Parameter Selection Method with Dual Dataset Validation. Transportation Research Board (TRB) 103rd Annual Meeting, *Poster Presented* [\[paper\]](/files/paper/ST_NKDE_TRB.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, H. Li, X. Hu, K. Hermann, K. Zhang, Y. Li, M. Li, Identifying Traffic Risk Hotspots Using Spatial-temporal Network Kernel Density Estimation: A Novel Optimal Parameter Selection Method with Dual Dataset Validation. Transportation Research Board (TRB) 103rd Annual Meeting, [\[paper\]](/files/paper/ST_NKDE_TRB.pdf)
 
 ---
  
