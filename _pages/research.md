@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 
-  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, [Any-dimensional Invariant Universality.](https://arxiv.org/abs/2605.23156) ICML 2026.  [\[paper\]](/files/paper/Any_dimensional_invariant_universality.pdf)
+  - <span style="font-weight:bold; text-decoration:underline;">S. Yao</span>, E. Levin, M. Diaz, [Any-dimensional Invariant Universality.](https://arxiv.org/abs/2605.23156) ICML 2026.  [\[paper\]](/files/paper/Any_dimensional_invariant_universality.pdf) [\[poster\]](/files/poster/Poster_anydim_inv.pdf)
+
 
 ---
 
