@@ -12,6 +12,18 @@ Here are some of my origami works, folded from existing designs. I am also learn
 <div style="margin-left:20px; text-align: center;">
 
 <figure style="display:inline-block; margin:10px; text-align:center;">
+  <img src="/images/origami/origami_12.jpg" style="width:200px; display:block; margin:auto;"/>
+</figure>
+
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img src="/images/origami/origami_11.jpg" style="width:200px; display:block; margin:auto;"/>
+</figure>
+
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img src="/images/origami/origami_10.jpg" style="width:200px; display:block; margin:auto;"/>
+</figure>
+
+<figure style="display:inline-block; margin:10px; text-align:center;">
   <img src="/images/origami/origami_9.jpg" style="width:200px; display:block; margin:auto;"/>
 </figure>
 
