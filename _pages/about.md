@@ -12,7 +12,7 @@ Welcome! I am **Shengtai Yao (姚圣泰)**, an incoming Ph.D. student in Operati
 
 ## Research Interest
 
-Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*** and I'm currently working on topics related to Geometric Machine Learning.
+Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*** and I'm currently working on topics related to Geometric Machine Learning and Generative models.
 
 
 
